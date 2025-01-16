@@ -1,0 +1,89 @@
+datasetId,name
+0218-0020,Snapshot
+0218-0045,Morningstar Ratings and Grades
+0218-0034,Operations
+0218-0472,Strategy Analysis
+0218-0480,Strategy Vehicle Analysis
+0218-0036,Returns (Daily)
+0218-0037,Returns (Month-End)
+0218-0038,Returns (Quarter-End)
+0218-0039,Returns (Calendar Year)
+0218-0260,Dividend (Calendar Year)
+0218-0261,Estimated Share Class Net Flow (Month-End)
+0218-0292,Estimated Fund-Level Net Flow (Month-End)
+0218-0041,Post-tax Returns (Month-End)
+0218-0043,Risk – Total Return (Month-End)
+0218-0044,Risk – Total Return (Quarter-End)
+0593-0255,Asset Allocation
+0218-0253,CAN Asset Allocation
+0218-0102,Strategy Target Asset Allocation
+0218-0047,Equity Sector Exposure
+0218-0353,Equity Industry Exposure
+0218-0048,Equity Sectors (GICS)
+0218-0049,Equity Industry (GICS)
+0218-0050,Equity Port Stats (Long)
+0218-0051,Equity Port Stats (Short)
+0218-0035,Equity Style Analysis
+0218-0052,Equity Regional Exposure
+0218-0053,Equity Country Exposure
+0218-0300,Equity Country (MSCI)
+0218-0418,Fixd-Inc Core Analytics
+0218-0420,Fixd-Inc Core Attributes
+0218-0432,Fixd-Inc Coupon and Interest
+0218-0422,Fixd-Inc Credit Ratings
+0218-0514,Fixd-Inc Currency Exposure
+0218-0485,Fixd-Inc Geographic Exposure
+0218-0468,Fixd-Inc Interest Rate Risk
+0218-0483,Fixd-Inc Morningstar Sectors
+0218-0473,"Fixd-Inc Option: Call, Put, Sink, Convert"
+0218-0470,Fixd-Inc Return/Yield
+0218-0430,Fixd-Inc Sector Corp Credit
+0218-0424,Fixd-Inc Sector Securtzd
+0218-0434,Fixd-Inc Sector Securtzd CMO/ABS
+0218-0426,Fixd-Inc Sector US Muni
+0218-0438,Fixd-Inc Sector US Muni Credit
+0218-0986,Fixd-Inc Surveyed Statistics
+0218-0428,Fixd-Inc US Regulatory
+0218-0054,Fixed-Inc Portfolio Statistics
+0218-0323,Fixed-Inc Super Sector Breakdown
+0218-0324,Fixed-Inc Primary Sector Breakdown
+0218-0325,Fixed-Inc Secondary Sector Breakdown
+0218-0326,Fixed-Inc Sector Country Breakdown
+0218-0078,Fixed-Inc Muni Sector Exposure
+0218-0227,Fixed-Inc Regional Exposure
+0218-0056,Fixed-Inc Country Exposure
+0218-0520,Portfolio Currency Exposure
+0218-0057,Surveyed Currency Exposure
+0218-0309,Cash Exposure
+0218-0442,Revenue Exposure by Region
+0218-0444,Revenue Exposure by Country
+0218-0058,Fees and Expenses
+0218-0103,Fees Schedule and Breakdown
+0218-0440,Risk Model
+0218-1203,Sustainable Investing: Low Carbon Transition Ratings (Fund)
+0218-0497,Sustainable Investing: Apply Exclusions (Fund)
+0218-0450,Sustainable Investing: Apply Exclusions (Company)
+0218-0498,Sustainable Investing: Limit ESG Risk (Fund)
+0218-0446,Sustainable Investing: Limit ESG Risk (Company)
+0218-0499,Sustainable Investing: Seek ESG Opportunity (Fund)
+0218-0981,Sustainable Investing: Carbon Risk (Fund)
+0218-0982,Sustainable Investing: Carbon Emissions (Fund)
+0218-0985,Sustainable Investing: Carbon Emissions Multicurrency (Fund)
+0218-0983,Sustainable Investing: Carbon Involvement (Fund)
+0218-0503,Sustainable Investing: Seek ESG Opportunity (Company)
+0218-0984,Sustainable Investing: Carbon (Company)
+0218-0500,Sustainable Investing: Target Sustainable Themes (Fund)
+0218-0494,Sustainable Investing: Target Sustainable Themes (Company)
+0218-1201,Sustainable Investing: Low Carbon Transition Ratings (Company)
+0218-0502,Sustainable Investing: Practice Active Ownership (Fund)
+0218-0526,Sustainable Investing: Physical Climate Risk Metrics (Fund)
+0218-0501,Assess Impact: Global Operational Impact Metrics (Fund)
+0218-0504,Assess Impact: Global Operational Impact Metrics (Company)
+0218-0490,Assess Impact: EU SFDR Mandatory Corporate PAIs (Fund)
+0218-0491,Assess Impact: EU SFDR Mandatory Sovereign PAIs (Fund)
+0218-0492,Assess Impact: EU SFDR Voluntary Corporate PAIs (Fund)
+0218-0493,Assess Impact: EU SFDR Voluntary Sovereign PAIs (Fund)
+0218-0495,Assess Impact: EU SFDR PAIs (Company & Country)
+0218-0511,Firm Diversity: Ownership
+0218-0512,Firm Diversity: Board Members
+0218-0513,Firm Diversity: Employees

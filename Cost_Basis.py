@@ -16,8 +16,3 @@ adjusted_close = data['Adj Close'].iloc[-1]
 
 print(f'{shares} shares of {symbol} on {end_date} have a cost basis of {adjusted_close * shares} at a price of {adjusted_close} per share.')
 
-
-
-
-
-

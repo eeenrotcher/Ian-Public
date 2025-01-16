@@ -1,0 +1,55 @@
+id,name
+MI,All Managed Investments
+SP,Private Funds
+R1,Global Restricted Funds
+DF,France Dedicated Funds
+IF,HSBC Restricted Funds
+CA]FC,Category - Closed End Funds
+CA]FC_PGI,Category - Closed End Fund Peer Group Index
+CA]FO,Category - Funds
+CA]FV,Category - Insurance Product Funds
+CA]FM,Category - Money Market Funds
+CA]CT,Category - 529
+CA]SA,Category - Separate Accounts
+CA]VA,Category - VA Subaccounts
+CA]VL,Category - VL Subaccounts
+CA]SU,Category - Stable Value Funds
+FC,Closed End Funds
+CP,529 Plans
+CT,529 Portfolios
+FE,Exchange-Traded Funds
+FH,Hedge Funds
+H1,HFR Hedge Funds
+VH,eVestment Hedge Funds
+PS,European Pension/Life Fund Wrappers
+FV,Insurance and Pension Funds
+XI,Market Indexes
+FM,Money Market Funds
+FO,Open End Funds
+FX,Funds (Open End and Exchange-Traded Funds)
+MG,Strategies
+SA,Separate Accounts
+CZ,Collective Investment Trusts
+MO,Models
+VS,eVestment Separate Accounts
+ST,Stocks
+BD,Bonds
+V1,UK Life and Pension Funds
+VP,US Variable Annuities
+VA,US Variable Annuity Subaccounts
+LP,US Variable Life
+VL,US Variable Life Subaccounts
+FI,Unit Investment Trust
+S1,UBS Separate Accounts
+CA]FO,France AMF Sector Averages
+CA]FO,Italy Assogestioni Sector Averages
+CA]FO,Portugal APF Sector Averages
+CA]FO,Spain CNMV Sector Averages
+CA]VL,UK ABI Life Sector Averages
+CA]VA,UK ABI Pension Sector Averages
+CA]FC,UK AIC Sector Averages
+CA]FO,UK IA Sector Averages
+CA]FO,South Africa ASISA Sector Averages
+CA]FO,Taiwan SITCA Category Averages
+IA,Investment Access Point
+CA]MO,Category - Models
