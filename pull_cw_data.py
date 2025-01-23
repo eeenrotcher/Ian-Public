@@ -20,9 +20,10 @@ response = requests.post(login_url, data = payload)
 
 print(f"Status Code: {response.status_code}")
 
-from selenium import webdriver
-
 driver = webdriver.Chrome()
 driver.get("https://loginv2.lpl.com/verify/?spEntityID=https:%2F%2Flogin.lpl.com&goto=https:%2F%2Fauth.advisor.lpl.com%2Fam%2Fsaml2%2Fjsp%2FidpSSOInit.jsp%3F%26metaAlias%3D%2Falpha%2Fadvisorfridcprodidp%26spEntityID%3Dhttps%253A%252F%252Flogin.lpl.com%26RelayState%3Dhttps:%2F%2Fclientworks.lpl.com%2F%26redirected%3Dtrue")
-button = driver.find_element('buttonID')
+
+
+
+button = driver.find_element_by_id("button-id")
 button.click()
